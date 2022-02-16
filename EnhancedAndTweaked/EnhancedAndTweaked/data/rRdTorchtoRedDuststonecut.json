@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:redstone_torch"
+    },
+    "result": "minecraft:redstone",
+    "count": 1
+}
