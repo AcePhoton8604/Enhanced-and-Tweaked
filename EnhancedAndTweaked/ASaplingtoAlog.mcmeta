@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:acacia_sapling",
+            "count":2
+        }
+    ],
+    "result": {
+        "item": "minecraft:stripped_acacia_log",
+        "count": 1
+    }
+}
